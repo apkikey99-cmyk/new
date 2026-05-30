@@ -1,0 +1,8 @@
+{
+  "name": "Remix:  Admin Notifikasi",
+  "description": "Sistem dasbor admin terpusat untuk menerima, memfilter, dan mendelegasikan notifikasi masuk dari perangkat secara real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
